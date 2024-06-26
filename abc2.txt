@@ -1,2 +1,0 @@
-this is devops class .
-now we learning linux commands
